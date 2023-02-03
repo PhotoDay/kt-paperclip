@@ -30,7 +30,7 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency("activerecord", ">= 4.2.0")
   s.add_development_dependency("appraisal")
-  s.add_development_dependency("aruba", "~> 0.9.0")
+  s.add_development_dependency("aruba", "~> 2.0.0")
   s.add_development_dependency("aws-sdk-s3")
   s.add_development_dependency("bundler")
   s.add_development_dependency("capybara")
